@@ -1,5 +1,7 @@
 # Bath Hack 2024 - Extended Kalman Filter
 
+For Bath Hack 2024, my team aimed to build a robotic arm and control it using hand gestures. To detect these gestures, we attached an [inertial measurement unit (IMU)](https://www.jouav.com/blog/inertial-measurement-unit.html) to a glove. I was tasked with learning from scratch how to implement an extended Kalman filter to fuse the data from the accelerometers and gyroscopes in the IMU. 
+
 ## References
 
 Salmony, P., 2022. Accelerometers and gyroscopes - sensor fusion #1 - Phil's lab #33 [Online]. Available from: https://youtu.be/RZd6XDx5VXo?si=BBaGahqPsBTgsjGc [Accessed 13 April 2024].
